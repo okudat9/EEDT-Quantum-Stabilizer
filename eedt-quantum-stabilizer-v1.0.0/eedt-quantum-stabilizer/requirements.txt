@@ -1,0 +1,17 @@
+# EEDT Quantum Stabilizer Requirements
+# =====================================
+
+# Core dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Quantum computing
+qiskit>=1.0.0
+qiskit-ibm-runtime>=0.20.0
+qiskit-aer>=0.13.0
+
+# Optional for advanced features
+# jupyter>=1.0.0  # For notebook examples
+# plotly>=5.18.0  # For interactive visualizations
