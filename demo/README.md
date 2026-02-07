@@ -1,3 +1,13 @@
+> **⚠️ Note: This is a Classical Simulation**
+> This program runs on a classical CPU using an Extended Kalman Filter (EKF).
+> It does NOT use actual quantum hardware.
+> Its purpose is to **visualize** the concept of EEDT's noise suppression logic using a familiar analogy (mouse jitter).
+>
+> **注意：これは古典シミュレーションです**
+> 本プログラムは、古典CPU上で拡張カルマンフィルタ(EKF)を用いて動作します。
+> 実際の量子ハードウェアは使用していません。
+> EEDT理論が目指す「ノイズ除去」の挙動を、マウスの手ブレという分かりやすい事象に置き換えて**可視化**するためのデモです。
+
 # 🚀 EEDT: Quantum-Inspired Noise Suppression Demo
 
 ![Demo Preview](demo.png)
