@@ -213,7 +213,7 @@ MIT License - 詳細は[LICENSE](LICENSE)を参照
   author = {093},
   title = {EEDT v3 FORTRESS: Quantum Intrusion Detection using Entanglement-Based Tripwires},
   year = {2026},
-  url = {https://github.com/YOUR_USERNAME/EEDT-Fortress}
+  url = {(https://github.com/okudat9/EEDT-Quantum-Stabilizer)}
 }
 ```
 
@@ -223,8 +223,8 @@ Issue、Pull Request歓迎します！
 
 ## 作者
 
-**093** - 独立量子コンピューティング研究者
-
+**T.OKUDA** - 独立量子コンピューティング研究者
+**mail：o93dice@gmail.com
 ---
 
 **Keywords**: Quantum Computing, Error Correction, Entanglement, Intrusion Detection, Adaptive QEC, Parity Check, IBM Quantum
