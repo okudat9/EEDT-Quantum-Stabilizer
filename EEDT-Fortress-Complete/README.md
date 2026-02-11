@@ -223,8 +223,8 @@ Issue、Pull Request歓迎します！
 
 ## 作者
 
-**T.OKUDA** - 独立量子コンピューティング研究者
-**mail：o93dice@gmail.com
+
+**[T.Okuda]** 📧 [o93dice@gmail.com]
 ---
 
 **Keywords**: Quantum Computing, Error Correction, Entanglement, Intrusion Detection, Adaptive QEC, Parity Check, IBM Quantum
